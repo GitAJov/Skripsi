@@ -1,0 +1,9 @@
+03082220026 - Jovan Torio - 22TI1
+
+01 - 2025/07/17
+- Semua kata asing yang belum di-bahasa Indonesia-kan, kecuali nama dicetak miring
+- Jangan gunakan referensi relatif seperti "berikut", gunakan referensi absolut seperti "gambar 2.xx" atau "tabel 2.xx"
+- Sesuaikan dengan format yang berlaku
+- Perbaiki sesuai dengan komentar pada dokumen
+
+
