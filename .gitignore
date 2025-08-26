@@ -1,6 +1,12 @@
 *.gguf
-Code/data
+Code/data/dataset
 Code/wikienv
 Code/wikipedia2corpus
 Journals
 /contriever-msmarco
+Code/data/arc/allenai___ai2_arc
+Code/data/popqa/akariasai___pop_qa
+Code/data/triviaqa/triviaqa-unfiltered/*.json
+*.tar.gz
+!Code/data/triviaqa/triviaqa-unfiltered/test.json
+/Code/data/self-rag
