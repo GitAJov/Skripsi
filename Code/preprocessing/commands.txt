@@ -1,0 +1,1 @@
+docker run --rm -v qdrant_qdrant_data:/data -v ${PWD}:/backup busybox sh -c "cd /data && tar xf /backup/qdrant_data.tar"
